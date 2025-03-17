@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="bnt.net.xml"/> 
+        <route-files value="bnt.rou.xml"/> 
+        <additional-files value="bnt.poly.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+        <step-length value="0.1"/> 
+    </time>
+</configuration>

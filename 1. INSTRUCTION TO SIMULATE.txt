@@ -1,0 +1,13 @@
+1. Open Terminal (Having this folder directory)
+
+2. Run below command
+  	sumo-gui PlaceName.sumocfg 
+e.g. sumo-gui Burla.sumocfg
+
+3. Now it will open sumo gui .
+Put values like 
+a) Delay: 20ms
+b) Scale Traffic: 120
+c) Choose real world or standard simulation
+
+Ready to simulate !!!

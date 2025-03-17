@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="kalaghoda.net.xml"/> 
+        <route-files value="kalaghoda.rou.xml"/> 
+        <additional-files value="kalaghoda.poly.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+        <step-length value="0.1"/> 
+    </time>
+</configuration>
